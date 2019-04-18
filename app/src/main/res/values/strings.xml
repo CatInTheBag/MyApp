@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Top Tracks</string>
+    <string name="app_label">Top 5</string>
+    <string name="app_button">Run</string>
+    <string name="app_spinner">Spinner</string>
+    <string name="app_textView">No artist selected :/</string>
+    <string name="app_buttonActivity">Second Activity :)</string>
+    <string name="app_textViewSecondActivity">Second Activity text :)</string>
+
+    <string-array name="artists">
+        <item>2Pac</item>
+        <item>Drake</item>
+        <item>2 Chainz</item>
+        <item>Eminem</item>
+        <item>Eazy e</item>
+    </string-array>
+</resources>
